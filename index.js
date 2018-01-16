@@ -7,4 +7,3 @@ function destructivelyAppendKitten(name){
 function destructivelyPrependKitten(name){
   name.shift("oscar")
 }
-
